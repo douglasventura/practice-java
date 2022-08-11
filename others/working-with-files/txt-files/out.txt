@@ -1,0 +1,8 @@
+Just a test
+Testing File System of the Java
+File Reader and BufferedReader
+Using BufferedRead and BufferedWritter for writter in out.txt the content of the test.txt
+Just a test
+Testing File System of the Java
+File Reader and BufferedReader
+Using BufferedRead and BufferedWritter for writter in out.txt the content of the test.txt
