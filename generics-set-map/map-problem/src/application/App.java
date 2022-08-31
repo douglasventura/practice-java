@@ -7,7 +7,7 @@ public class App {
     
     public static void main(String[] args) {
         
-        String path = "./../../in.txt";
+        String path = "generics-set-map/map-problem/files/in.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(path))) {
             

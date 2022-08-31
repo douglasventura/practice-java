@@ -13,7 +13,7 @@ public class App {
     public static void main(String[] args) {
         
         List<Product> list = new ArrayList<>();
-        String path = "../files/in.txt";
+        String path = "generics-set-map/calculation-service/files/in.txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(path))) {
             String line = reader.readLine();

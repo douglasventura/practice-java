@@ -5,7 +5,6 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 import entities.Employee;
 
@@ -13,7 +12,7 @@ public class App {
     
     public static void main(String[] args) {
         
-        String path = "./../in.txt";
+        String path = "functional-programming/files/in.txt";
 
         try (BufferedReader br = new BufferedReader(new FileReader(path)); 
         Scanner sc = new Scanner(System.in)) {
